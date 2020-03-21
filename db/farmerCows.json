@@ -1,0 +1,18 @@
+{
+  "farmerCow1":{
+    "cowId":"cow1",
+    "farmerUid":"lTo04czNKdY05ecMYBG84lFIuFW2"
+  },
+  "farmerCow2":{
+    "cowId":"cow2",
+    "farmerUid":"2345"
+  },
+  "farmerCow3":{
+    "cowId":"cow3",
+    "farmerUid":"lTo04czNKdY05ecMYBG84lFIuFW2"
+  },
+  "farmerCow4":{
+    "cowId":"cow3",
+    "farmerUid":"4567"
+  }
+}
