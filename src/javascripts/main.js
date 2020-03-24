@@ -14,6 +14,8 @@ const init = () => {
   login.checkStatus();
   auth.loginButton();
   logout.logoutEvent();
+  $('body').on('mouseenter', '.farmer-card', (e) => e.target.closest('.card').classList.add('bg-danger'));
+  $('body').on('mouseleave', '.farmer-card', (e) => e.target.closest('.card').classList.remove('bg-danger'));
 };
 
 init();
